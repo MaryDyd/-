@@ -1,0 +1,17 @@
+C:\Users\andrl\source\repos\clinic\clinic\bin\Debug\clinic.exe.config
+C:\Users\andrl\source\repos\clinic\clinic\bin\Debug\clinic.exe
+C:\Users\andrl\source\repos\clinic\clinic\bin\Debug\clinic.pdb
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.csproj.AssemblyReference.cache
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.Form1.resources
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.Properties.Resources.resources
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.csproj.GenerateResource.cache
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.csproj.CoreCompileInputs.cache
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.exe
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.pdb
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.Form2.resources
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.Form3.resources
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.Form4.resources
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.Form5.resources
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.Form6.resources
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.Form7.resources
+C:\Users\andrl\source\repos\clinic\clinic\obj\Debug\clinic.ErrorSignal.resources

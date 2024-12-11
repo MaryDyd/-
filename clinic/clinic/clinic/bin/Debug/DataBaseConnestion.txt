@@ -1,0 +1,1 @@
+Data Source = REYZ1337\SQLEXPRESS; Initial Catalog = Dental_Clinic; User ID = login; Password = password; Integrated Security = false
